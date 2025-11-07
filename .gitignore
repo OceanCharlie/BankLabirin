@@ -1,0 +1,7 @@
+.vscode/
+
+*.exe
+bank-labirin
+
+*.csv
+!data.csv

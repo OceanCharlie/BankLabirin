@@ -69,6 +69,9 @@ The program uses the following structures to organize data:
 2.  **Main Menu:**
       * **Option 1 (Load):** Enter the path to a `.csv` file to load existing customer data.
       * **Option 2 (Input):** Manually input data for a new customer.
+      ```bash 
+      Tips: To test the system, you can directly enter data.csv when prompted for the file name, as the dummy file is already available in the repository.
+      ```
 3.  **Sub Menu (After Loading/Input):**
       * **Display:** View all current records.
       * **Search:** Find specific customers by name.
